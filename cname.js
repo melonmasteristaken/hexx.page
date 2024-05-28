@@ -1,4 +1,5 @@
 var cnames_active = {
   "test": "dotargz.github.io/test-hexx",
-  "nodex": "nodexninja.github.io/"
+  "nodex": "nodexninja.github.io/",
+  "scriptorite": "scriptorite.github.io/"
 }
